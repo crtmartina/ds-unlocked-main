@@ -1,4 +1,4 @@
-#### Progetto didattico
+#### DT - UNLOCKED
 
 # Design Token
 I design tokens sono elementi chiave nel processo di design system, rappresentando i mattoni fondamentali dell'aspetto visivo di un'interfaccia. Essi includono colori, tipografia, spaziatura e altri attributi che consentono una coerenza visiva e facilitano la manutenzione del design in un progetto.
