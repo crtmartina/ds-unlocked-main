@@ -1,210 +1,210 @@
 {
     "global": {
         "primary-1": {
-            "value": "#ffffff",
+            "value": "#000000",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "secondary-1": {
-            "value": "#000000",
+            "value": "#ffffff",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "active-1": {
-            "value": "#ffc000",
+            "value": "#917300",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "active-2": {
-            "value": "#a37b00",
+            "value": "#5c4900",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-1": {
-            "value": "#f5f5f5",
+            "value": "#181818",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-2": {
-            "value": "#dcdcdc",
+            "value": "#313131",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-3": {
-            "value": "#c4c4c4",
+            "value": "#494949",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-4": {
-            "value": "#ababab",
+            "value": "#626262",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-5": {
-            "value": "#969696",
+            "value": "#7d7d7d",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-6": {
-            "value": "#7d7d7d",
+            "value": "#969696",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-7": {
-            "value": "#626262",
+            "value": "#ababab",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-8": {
-            "value": "#494949",
+            "value": "#c4c4c4",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-9": {
-            "value": "#313131",
+            "value": "#dcdcdc",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "grey-10": {
-            "value": "#181818",
+            "value": "#f5f5f5",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "signal-alert": {
-            "value": "#e62d37",
+            "value": "#dc1e28",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "signal-warning": {
-            "value": "#ff822d",
+            "value": "#f5a500",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "signal-info": {
-            "value": "#2d73d7",
+            "value": "#2328ff",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "signal-success": {
-            "value": "#37d200",
+            "value": "#23a046",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "brand": {
             "brand-1": {
-                "value": "#ffffff",
+                "value": "#000000",
                 "type": "color"
             },
             "brand-2": {
-                "value": "#000000",
+                "value": "#ffffff",
                 "type": "color"
             }
         },
         "active": {
             "active-1": {
-                "value": "#ffc000",
+                "value": "#917300",
                 "type": "color"
             },
             "active-2": {
-                "value": "#cc9a00",
+                "value": "#665100",
                 "type": "color"
             },
             "active-3": {
-                "value": "#997300",
+                "value": "#423500",
                 "type": "color"
             }
         },
         "grey": {
             "grey-1": {
-                "value": "#f5f5f5",
-                "type": "color"
-            },
-            "grey-2": {
-                "value": "#dcdcdc",
-                "type": "color"
-            },
-            "grey-3": {
-                "value": "#c4c4c4",
-                "type": "color"
-            },
-            "grey-4": {
-                "value": "#ababab",
-                "type": "color"
-            },
-            "grey-5": {
-                "value": "#969696",
-                "type": "color"
-            },
-            "grey-6": {
-                "value": "#7d7d7d",
-                "type": "color"
-            },
-            "grey-7": {
-                "value": "#626262",
-                "type": "color"
-            },
-            "grey-8": {
-                "value": "#494949",
-                "type": "color"
-            },
-            "grey-9": {
-                "value": "#313131",
-                "type": "color"
-            },
-            "grey-10": {
                 "value": "#181818",
                 "type": "color"
             },
+            "grey-2": {
+                "value": "#313131",
+                "type": "color"
+            },
+            "grey-3": {
+                "value": "#494949",
+                "type": "color"
+            },
+            "grey-4": {
+                "value": "#626262",
+                "type": "color"
+            },
+            "grey-5": {
+                "value": "#7d7d7d",
+                "type": "color"
+            },
+            "grey-6": {
+                "value": "#969696",
+                "type": "color"
+            },
+            "grey-7": {
+                "value": "#ababab",
+                "type": "color"
+            },
+            "grey-8": {
+                "value": "#c4c4c4",
+                "type": "color"
+            },
+            "grey-9": {
+                "value": "#dcdcdc",
+                "type": "color"
+            },
+            "grey-10": {
+                "value": "#f5f5f5",
+                "type": "color"
+            },
             "grey-0": {
-                "value": "#ffffff",
+                "value": "#000000",
                 "type": "color"
             },
             "grey-11": {
-                "value": "#000000",
+                "value": "#ffffff",
                 "type": "color"
             }
         },
         "signal": {
             "signal-alert-1": {
-                "value": "#e62d37",
+                "value": "#dc1e28",
                 "type": "color"
             },
             "signal-warning-1": {
-                "value": "#ff822d",
+                "value": "#f5a500",
                 "type": "color"
             },
             "signal-info-1": {
-                "value": "#2d73d7",
+                "value": "#2328ff",
                 "type": "color"
             },
             "signal-success-1": {
-                "value": "#37d200",
+                "value": "#23a046",
                 "type": "color"
             },
             "signal-alert-2": {
-                "value": "#c91821",
+                "value": "#af1820",
                 "type": "color"
             },
             "signal-alert-3": {
-                "value": "#9b121a",
+                "value": "#821218",
                 "type": "color"
             }
         },
@@ -217,21 +217,21 @@
     },
     "background": {
         "surface-1": {
-            "value": "{global.grey-10}",
+            "value": "{global.secondary-1}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "surface-2": {
-            "value": "{global.grey-9}",
+            "value": "{global.grey-10}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "surface-3": {
-            "value": "{global.grey-8}",
+            "value": "{global.secondary-1}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         }
     },
@@ -239,27 +239,27 @@
         "text-1": {
             "value": "{global.grey.grey-1}",
             "type": "color",
-            "parent": "lam-color/dark"
+            "parent": "sys-color/light"
         },
         "text-2": {
             "value": "{global.grey.grey-2}",
             "type": "color",
-            "parent": "lam-color/dark"
+            "parent": "sys-color/light"
         },
         "text-3": {
             "value": "{global.grey.grey-3}",
             "type": "color",
-            "parent": "lam-color/dark"
+            "parent": "sys-color/light"
         },
         "text-4": {
             "value": "{global.grey.grey-4}",
             "type": "color",
-            "parent": "lam-color/dark"
+            "parent": "sys-color/light"
         },
         "text-5": {
             "value": "{global.grey.grey-5}",
             "type": "color",
-            "parent": "lam-color/dark"
+            "parent": "sys-color/light"
         },
         "btn-label-1": {
             "value": "{global.brand.brand-2}",
@@ -298,49 +298,49 @@
         "primary-default": {
             "value": "{global.primary-1}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "primary-hover": {
             "value": "{global.grey-3}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "primary-focus": {
             "value": "{global.primary-1}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "primary-pressed": {
             "value": "{global.grey-1}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "active-default": {
             "value": "{global.active-1}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "active-hover": {
             "value": "{global.active-2}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "active-focus": {
             "value": "{global.active-1}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "active-pressed": {
             "value": "{global.active-1}",
             "type": "color",
-            "parent": "lam-color/dark",
+            "parent": "sys-color/light",
             "description": ""
         },
         "base": {
@@ -470,7 +470,7 @@
             "type": "color"
         },
         "on-surface-2": {
-            "value": "{global.grey.grey-1}",
+            "value": "{global.grey.grey-2}",
             "type": "color"
         },
         "on-surface-3": {
